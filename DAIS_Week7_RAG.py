@@ -37,7 +37,7 @@ os.environ["PYTORCH_ENABLE_META_TENSOR"] = "0"
 
 st.title("Course : Digital AI strategy")
 
-st.subheader ("Week 5:  New Business Models as digital AI Strategy & Finding Platform in Products")
+st.subheader ("Week 7:  New Business Models as digital AI Strategy & Finding Platform in Products")
 
 # Sidebar: Choose provider & keys
 provider = st.sidebar.selectbox(
